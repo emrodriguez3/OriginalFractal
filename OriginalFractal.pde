@@ -1,7 +1,7 @@
 int myColor = color((int)(Math.random()*255), (int)(Math.random()*255), (int)(Math.random()*255));
 public void setup()
 {
-  size (300, 300);
+  size (500, 500);
   rectMode(CENTER);
 }
 public void draw()
